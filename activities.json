@@ -1,0 +1,11 @@
+[
+    {
+        "activity": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+
+        "solution": "src/main/java/com/example/Estudiante.java"
+    },
+    {
+        "activity": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solution": "src/main/java/com/example/Libro.java"
+    }    
+]
