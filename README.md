@@ -4,14 +4,13 @@
 
 ### 1. Crear Fork del repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
-cd NOMBRE_DEL_REPO
+https://github.com/jfinfocesde/act_b1_em1.git
 ```
 
 ### 2. Clonar tu fork
 ```bash
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
-cd NOMBRE_DEL_REPO
+git clone https://github.com/TU_USUARIO/act_b1_em1.git
+cd act_b1_em1
 ```
 
 ### 3. Configurar información personal
